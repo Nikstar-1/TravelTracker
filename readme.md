@@ -123,7 +123,6 @@ Cloudinary
 Sequelize/SQL
 
 
-Nikstar-1
 
 
 
