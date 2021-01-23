@@ -69,7 +69,7 @@ holiday based on the reviews of other users.
 ## Installation
 To run the application locally, first clone this repository with the following command.
 
-git clone https://github.com/genius-pending/TravelTracker.git
+git clone https://github.com/Nikstar-1/TravelTracker.git
 
 Next, install the application dependencies.
 
