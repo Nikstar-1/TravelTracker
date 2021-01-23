@@ -87,13 +87,13 @@ Enjoy Tracking your Trip!
 
 !["Start Page"](./public/assets/css/Dtop-view.png  "Start page.")
 
-!["Start Page"](./public/assets/css/MobileView.png"Start page.")
+!["Start Page"](./public/assets/css/MobileView.png "Start page.")
 
-!["Start Page"](/public/assets/css/Desktop3.png"Start page.")
+!["Start Page"](./public/assets/css/Desktop3.png "Start page.")
 
 ## Cloudinary Gallery
 
-!["Start Page"](/public/assets/css/CloudinaryStorage1.png"Start page.")
+!["Start Page"](./public/assets/css/CloudinaryStorage1.png"Start page.")
 
 ## Technologies used:
 Javascript
